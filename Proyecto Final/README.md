@@ -2,6 +2,8 @@
 
 Implementación Algoritmo Seam-Carving.
 
-Daniel Bolaños Martínez
+Trabajo realizado por:
 
-José María Borrás Serrano
+- Daniel Bolaños Martínez
+
+- José María Borrás Serrano
