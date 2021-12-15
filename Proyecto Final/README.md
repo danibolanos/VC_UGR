@@ -10,4 +10,4 @@ Work done by:
 
 ## Bibliography
 
-- Avidan, S., Shamir, A. (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (ACM T GRAPHIC).
+- S. Avidan & A. Shamir (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (ACM T GRAPHIC).
