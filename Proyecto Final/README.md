@@ -8,6 +8,6 @@ Work done by:
 
 - José María Borrás Serrano
 
-##Bibliography
+## Bibliography
 
 - Avidan, S., Shamir, A. (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (ACM T GRAPHIC).
